@@ -7,4 +7,4 @@ print("Os valores de A e B são respectivamente", a, "e", b)
 c=a
 a=b
 b=c
-print("Agora Ae B valem", a, "e", b)
+print("Agora A= ",a," e B= ",b)
